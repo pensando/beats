@@ -555,6 +555,7 @@ https://github.com/elastic/beats/compare/v7.0.0-alpha2...master[Check the HEAD d
 - Improve Fortinet firewall module with `x509` ECS mappings {pull}20983[20983]
 - Improve Santa module with `x509` ECS mappings {pull}20976[20976]
 - Improve Suricata Eve module with `x509` ECS mappings {pull}20973[20973]
+- Add Pensando distributed firewall module. {pull}21063[21063]
 
 *Heartbeat*
 
